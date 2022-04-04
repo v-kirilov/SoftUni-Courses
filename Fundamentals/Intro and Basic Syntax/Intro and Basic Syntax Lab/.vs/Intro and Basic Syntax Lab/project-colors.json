@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ab502ccd-e05c-4bbb-82e0-e50847dc6a7f": {
+      "ProjectGuid": "ab502ccd-e05c-4bbb-82e0-e50847dc6a7f",
+      "DisplayName": "06. Foreign Languages",
+      "ColorIndex": 0
+    },
+    "0f12dda2-6f28-438e-bca6-3131fd0f7cf2": {
+      "ProjectGuid": "0f12dda2-6f28-438e-bca6-3131fd0f7cf2",
+      "DisplayName": "5. Month Printer",
+      "ColorIndex": 1
+    },
+    "b0c96482-150b-41a2-a634-ee50bd06147e": {
+      "ProjectGuid": "b0c96482-150b-41a2-a634-ee50bd06147e",
+      "DisplayName": "4. Back in 30 Minutes",
+      "ColorIndex": 2
+    },
+    "3dd31837-7e1d-4f17-b814-f87f60bdbddd": {
+      "ProjectGuid": "3dd31837-7e1d-4f17-b814-f87f60bdbddd",
+      "DisplayName": "03. Passed or Failed",
+      "ColorIndex": 3
+    },
+    "b777bf4b-4623-46d7-a87c-b1508482e775": {
+      "ProjectGuid": "b777bf4b-4623-46d7-a87c-b1508482e775",
+      "DisplayName": "2. Passed",
+      "ColorIndex": 4
+    },
+    "ef7a1ee9-9a82-47f9-a6b8-550360b79bb6": {
+      "ProjectGuid": "ef7a1ee9-9a82-47f9-a6b8-550360b79bb6",
+      "DisplayName": "1. Student Information",
+      "ColorIndex": 5
+    },
+    "e814d1a2-ebb1-4a6f-b75b-e6ac4f01b3cc": {
+      "ProjectGuid": "e814d1a2-ebb1-4a6f-b75b-e6ac4f01b3cc",
+      "DisplayName": "8. Divisible by 3",
+      "ColorIndex": 6
+    },
+    "4262384c-909e-4c62-b29b-38061e176e8d": {
+      "ProjectGuid": "4262384c-909e-4c62-b29b-38061e176e8d",
+      "DisplayName": "10.  Multiplication Table",
+      "ColorIndex": 7
+    },
+    "9d17c76f-b0c6-4973-98da-a5a8c4f4b99d": {
+      "ProjectGuid": "9d17c76f-b0c6-4973-98da-a5a8c4f4b99d",
+      "DisplayName": "11. Multiplication Table 2.0",
+      "ColorIndex": 8
+    },
+    "68edfcf1-becc-4ed6-91a8-74586e5956b7": {
+      "ProjectGuid": "68edfcf1-becc-4ed6-91a8-74586e5956b7",
+      "DisplayName": "12. Even Number",
+      "ColorIndex": 9
+    },
+    "56899534-beb5-490a-88c2-b8c3bccbb7be": {
+      "ProjectGuid": "56899534-beb5-490a-88c2-b8c3bccbb7be",
+      "DisplayName": "13. Debug the Code Holidays Between Two Dates",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

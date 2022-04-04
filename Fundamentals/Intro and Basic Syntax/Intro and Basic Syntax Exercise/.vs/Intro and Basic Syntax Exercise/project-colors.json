@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e9a1896f-4005-433d-b709-b70666f70a88": {
+      "ProjectGuid": "e9a1896f-4005-433d-b709-b70666f70a88",
+      "DisplayName": "1. Ages",
+      "ColorIndex": 0
+    },
+    "f5c8cd9b-14ae-4063-9893-9b3ae3282e3a": {
+      "ProjectGuid": "f5c8cd9b-14ae-4063-9893-9b3ae3282e3a",
+      "DisplayName": "2. Divison",
+      "ColorIndex": 1
+    },
+    "aa7b3f71-80ac-4388-a7fe-8c7e690d11e0": {
+      "ProjectGuid": "aa7b3f71-80ac-4388-a7fe-8c7e690d11e0",
+      "DisplayName": "3. Vacation",
+      "ColorIndex": 2
+    },
+    "1deff5a0-dfd7-4fb8-b417-48c4735b8c6a": {
+      "ProjectGuid": "1deff5a0-dfd7-4fb8-b417-48c4735b8c6a",
+      "DisplayName": "4. Print and Sum",
+      "ColorIndex": 3
+    },
+    "d7670615-fbe5-4b43-b5c8-a521b3602569": {
+      "ProjectGuid": "d7670615-fbe5-4b43-b5c8-a521b3602569",
+      "DisplayName": "5. Login",
+      "ColorIndex": 4
+    },
+    "ad0a4c07-9ca4-40d6-9721-ab5793ccda09": {
+      "ProjectGuid": "ad0a4c07-9ca4-40d6-9721-ab5793ccda09",
+      "DisplayName": "6. Strong Number",
+      "ColorIndex": 5
+    },
+    "1af119b6-b9f3-435e-b577-909ef812a4cb": {
+      "ProjectGuid": "1af119b6-b9f3-435e-b577-909ef812a4cb",
+      "DisplayName": "7. Vending Machine",
+      "ColorIndex": 6
+    },
+    "aa78464b-7b04-4ace-b580-1b35826fed2f": {
+      "ProjectGuid": "aa78464b-7b04-4ace-b580-1b35826fed2f",
+      "DisplayName": "8. Triangle of Numbers",
+      "ColorIndex": 7
+    },
+    "759a89b5-9a40-4761-908b-482ab58ed360": {
+      "ProjectGuid": "759a89b5-9a40-4761-908b-482ab58ed360",
+      "DisplayName": "9. Padawan Equipment",
+      "ColorIndex": 8
+    },
+    "6bbebe68-4788-48d5-9df9-85bc86a4f647": {
+      "ProjectGuid": "6bbebe68-4788-48d5-9df9-85bc86a4f647",
+      "DisplayName": "10. Rage Expenses",
+      "ColorIndex": 9
+    },
+    "127fdfa7-498e-444a-a421-75716eeafbad": {
+      "ProjectGuid": "127fdfa7-498e-444a-a421-75716eeafbad",
+      "DisplayName": "11. Orders",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
